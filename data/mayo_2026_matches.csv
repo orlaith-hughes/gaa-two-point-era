@@ -1,5 +1,45 @@
-match_no,date,stage,opponent,venue,mayo_goals,mayo_points,opp_goals,opp_points,mayo_2pt_made,mayo_2pt_attempts,opp_2pt_made,result
-1,2026-06-14,Round 2A,Tyrone,Healy Park,1,18,0,22,,,,L
-2,2026-06-27,Quarter-final,Cork,Croke Park,0,23,0,18,5,,2,W
-3,2026-07-11,Semi-final,Louth,Croke Park,3,23,0,15,,,,W
-4,2026-07-26,Final,Kerry,Croke Park,1,20,1,17,4,13,,W
+#
+Date
+Match and source report
+Mayo two-pointers
+Opponent two-pointers
+1
+Sat 11 Apr
+London v Mayo (RTÉ)
+7
+3
+2
+Sun 26 Apr
+Mayo v Roscommon (Irish Times)
+2
+2
+3
+Sun 31 May
+Monaghan v Mayo (Connaught Telegraph)
+6
+4
+4
+Sun 14 Jun
+Tyrone v Mayo (Irish Times)
+2
+1
+5
+Sat 20 Jun
+Mayo v Meath (Irish Times)
+3
+0
+6
+Sat 27 Jun
+Mayo v Cork (Cork GAA)
+5
+2
+7
+Sat 11 Jul
+Mayo v Louth (Western People)
+4
+4
+8
+Sun 26 Jul
+Mayo v Kerry (Irish Examiner)
+4
+1
